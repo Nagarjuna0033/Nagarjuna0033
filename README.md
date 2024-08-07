@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **react, node, jetpack compose**
+- 💬 Ask me about **react, node, jetpack compose,kotlin,javascript**
 
-- 📫 How to reach me **nagarjunabanda4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
