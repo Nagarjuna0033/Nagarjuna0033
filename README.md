@@ -1,3 +1,4 @@
+![Banner](https://github.com/Nagarjuna0033/Nagarjuna0033/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Nagarjuna</h1>
 <!--<h3 align="center">A passionate developer from India</h3>-->
 
