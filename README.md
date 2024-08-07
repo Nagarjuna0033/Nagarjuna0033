@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagarjuna0033" alt="nagarjuna0033" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arjuna3104" target="blank"><img src="https://img.shields.io/twitter/follow/Arjun3104?logo=twitter&style=for-the-badge" alt="Arjun3104" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Arjun3104" target="blank"><img src="https://img.shields.io/twitter/follow/Arjun3104?logo=twitter&style=for-the-badge" alt="Arjun3104" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development**
 
