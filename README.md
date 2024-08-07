@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Nagarjuna0033/Nagarjuna0033/blob/main/github-banner.png)
-<h1 align="center">Hi 👋, I'm Nagarjuna</h1>
+<!--<h1 align="center">Hi 👋, I'm Nagarjuna</h1>-->
 <!--<h3 align="center">A passionate developer from India</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" /> </p>
