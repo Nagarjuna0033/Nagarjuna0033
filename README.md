@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./banner.png" />
+  <!-- <img src ="./banner.png" /> -->
   
 </div>
 
@@ -13,7 +13,6 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" /> </p>
-
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
