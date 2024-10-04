@@ -51,7 +51,7 @@ Here are some ideas to get you started: -->
 ## ❤️ Let's get connected:
 
 <!-- <p><a href="https://nagarjuna.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/nagarjuna.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> -->
-<a href="https://twitter.com/arjun3014" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<a href="https://twitter.com/arjun3104" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
