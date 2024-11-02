@@ -1,4 +1,5 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Nagarjuna</h1>
+<h1 align="center">Hello👋 <a href="https://github.com/Nagarjuna0033/" target="_blank">
+Nagarjuna</a></h1>
 
 <!--
 **Nagarjuna0033/Nagarjuna0033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +13,13 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
+
+A technology-enthusiastic especially in web and android development
+
+<img src="./line.gif" width="100%" alt="snake"/>
+ <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" /> </p>
+
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
