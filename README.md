@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋 <a href="https://github.com/Nagarjuna0033/" target="_blank">
+<h1 align="center">Hello👋, I'm <a href="https://github.com/Nagarjuna0033/" target="_blank">
 Nagarjuna</a></h1>
 
 <!--
@@ -38,33 +38,36 @@ A technology-enthusiastic especially in web and android development
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<img alt="Android" src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=android&logoColor=61DAFB height="25px"/>
-<img alt="kotlin" src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB height="25px"/>
-<img alt="kotlin" src="https://img.shields.io/badge/Jetpack compose-00599C?style=for-the-badge&logo=jetpackcompose&logoColor=61DAFB height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=android&logoColor=61DAFB height="25px"/>
+  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB height="25px"/>
+  <img alt="kotlin" src="https://img.shields.io/badge/Jetpack compose-00599C?style=for-the-badge&logo=jetpackcompose&logoColor=61DAFB height="25px"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+  <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="">
+  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
 
-<!-- <p><a href="https://nagarjuna.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/nagarjuna.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> -->
+<p><a href="https://nagarjuna0033.github.io/portfolio/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/nagarjuna.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
 <a href="https://twitter.com/arjun3104" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact" alt="nagarjuna0033" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nagarjuna0033&show_icons=true&locale=en" alt="nagarjuna0033" /></p>
+  <div><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact" alt="nagarjuna0033" /></div>
+  <div><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nagarjuna0033&show_icons=true&locale=en" alt="nagarjuna0033" /></div>
+  <div><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjuna0033" alt="nagarjuna0033"/></div>
 </div>
