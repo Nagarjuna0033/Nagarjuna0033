@@ -41,6 +41,7 @@ A technology-enthusiastic especially in web and android development
   <img alt="Android" src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=android&logoColor=61DAFB height="25px"/>
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB height="25px"/>
   <img alt="kotlin" src="https://img.shields.io/badge/Jetpack compose-00599C?style=for-the-badge&logo=jetpackcompose&logoColor=61DAFB height="25px"/>
+  <img alt="postman" src="https://img.shields.io/badge/-firebase-00C7B7?style=flat-square&logo=firebase&logoColor=white" height="25px"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
