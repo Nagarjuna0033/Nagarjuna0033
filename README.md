@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-A technology-enthusiastic especially in web and android development
+A technology-enthusiastic
 
 <img src="./line.gif" width="100%" alt="snake"/>
  <br/>
@@ -25,7 +25,7 @@ A technology-enthusiastic especially in web and android development
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://nagarjuna.vercel.app/)** -->
 
-- 🔭 I’m currently working on `different things`.
+- 🔭 I’m currently working on `Android Development`.
 
 - 🌱 I’m currently learning `Native Android Development`
 
