@@ -66,9 +66,14 @@ A technology-enthusiastic
 </p>
 
 ## 📊 My GitHub Data:
-
-<div align="center">
-  <div><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact" alt="nagarjuna0033" /></div>
-  <div><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nagarjuna0033&show_icons=true&locale=en" alt="nagarjuna0033" /></div>
-  <div><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjuna0033" alt="nagarjuna0033"/></div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px">
+  <div style="flex: 1; min-width: 300px;">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact" alt="nagarjuna0033" />
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nagarjuna0033&show_icons=true&locale=en" alt="nagarjuna0033" />
+  </div>
 </div>
+<!--   <div><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjuna0033" alt="nagarjuna0033"/></div> -->
+<!--   <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagarjuna0033&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/></div> -->
+
