@@ -5,14 +5,8 @@ Nagarjuna</a></h1>
 **Nagarjuna0033/Nagarjuna0033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-<div align="center">
-  <!-- <img src ="./banner.png" /> -->
-  
-</div>
-
- <br/>
-
 ## 👨🏻‍💻 About Me:
+ <br/>
 
 A technology-enthusiastic
 
@@ -25,15 +19,15 @@ A technology-enthusiastic
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://nagarjuna.vercel.app/)** -->
 
-- 🔭 I’m currently working on `Android Development`.
+- 🔭 I’m currently working on `Mobile Application Development`.
 
-- 🌱 I’m currently learning `Native Android Development`
+- 🌱 I’m currently learning `Mobile Application Development`
 
 <!-- - 💬 Ask me about anything -->
 
 - 👨‍💻 Life Hack: Learn and :fire: and share :tada:
 
-- ⚡ Fun fact: I don't love to code
+- ⚡ Fun fact: I don't like to code
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -62,19 +56,19 @@ A technology-enthusiastic
 ## ❤️ Let's get connected:
 
 <p><a href="https://nagarjuna0033.github.io/portfolio/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/nagarjuna.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
-<a href="https://twitter.com/arjun3104" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<a href="https://twitter.com/arjun3104" target="_blank"><img alt="x" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: black; padding: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="nagarjuna0033" />
+<div align="center">
+  <div>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="nagarjuna0033" />
   </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nagarjuna0033&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="nagarjuna0033" />
+  <div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nagarjuna0033&show_icons=true&title_color=ffffff&amp&icon_color=00ACC1&amp&text_color=ffffff&amp&bg_color=000000&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/></div>
+   <div >
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagarjuna0033&theme=black-ice&stroke=00ACC1&background=000000&ring=00ACC1&fire=ffffff&currStreakLabel=00ACC1" alt="GitHub Streak" />
   </div>
 </div>
 
-<!--   <div><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjuna0033" alt="nagarjuna0033"/></div> -->
-<!--   <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nagarjuna0033&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/></div> -->
 
