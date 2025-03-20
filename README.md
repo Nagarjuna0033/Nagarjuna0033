@@ -67,7 +67,7 @@ A technology-enthusiastic
   <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nagarjuna0033&show_icons=true&title_color=ffffff&amp&icon_color=00ACC1&amp&text_color=ffffff&amp&bg_color=000000&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/></div>
    <div >
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagarjuna0033&theme=black-ice&stroke=00ACC1&background=000000&ring=00ACC1&fire=ffffff&currStreakLabel=00ACC1" alt="GitHub Streak" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagarjuna0033&theme=black-ice&stroke=ffffff&background=000000&ring=00ACC1&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
   </div>
 </div>
 
