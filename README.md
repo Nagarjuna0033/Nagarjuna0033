@@ -1,34 +1,34 @@
 <h1 align="center">Hello👋, I'm <a href="https://github.com/Nagarjuna0033/" target="_blank">
-Nagarjuna</a></h1>
+Nagarjuna</a>
+</h1>
 
 <!--
 **Nagarjuna0033/Nagarjuna0033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
-
 ## 👨🏻‍💻 About Me:
 
 A technology-enthusiastic
 
 <img src="./line.gif" width="100%" alt="snake"/>
-
 <br/>
 
 <img src="./thoughtworks-gif_dribbble.gif" height="300px" align="right"/>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" />
 
-- 🔭 I’m currently working on `Mobile Application Development`.  
-- 🌱 I’m currently learning `Mobile Application Development`.  
-- 👨‍💻 Life Hack: Learn 🔥 and share 🎉  
-- ⚡ Fun fact: I don't like to code  
+- 🔭 I’m currently working on `Mobile Application Development`.
+
+- 🌱 I’m currently learning `Mobile Application Development`.
+
+- 👨‍💻 Life Hack: Learn 🔥 and share 🎉
+
+- ⚡ Fun fact: I don't like to code
+
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/16B7MNpRtZEpEldpHs6y3jDmoHwzcfUgx/view?usp=sharing)
-<br/>
 <br/>
 
 ## 🛠️ Technologies and Tools I use:
-
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></code>
@@ -54,11 +54,9 @@ A technology-enthusiastic
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 </div>
-
 <br/>
 
 ## ❤️ Let's get connected:
-
 <p align="left">
 	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
 		<img alt="Github" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
@@ -73,7 +71,6 @@ A technology-enthusiastic
 		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
 	</a>
 </p>
-
 <br/>
 
 ## 📊 My GitHub Data:
