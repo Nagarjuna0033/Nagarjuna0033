@@ -25,7 +25,7 @@ A technology-enthusiastic
 
 - ⚡ Fun fact: I don't like to code
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/16B7MNpRtZEpEldpHs6y3jDmoHwzcfUgx/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1nNJ2w-UOqoS_3cpMwO0c64pNO-hUaJN-/view?usp=sharing)
 <br/>
 
 ## 🛠️ Technologies and Tools I use:
