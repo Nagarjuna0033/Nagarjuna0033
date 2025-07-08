@@ -61,7 +61,7 @@ A technology-enthusiastic
 	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
 		<img alt="Github" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
 	</a>
-	<a href="https://twitter.com/arjun3104" target="_blank">
+	<a href="https://twitter.com/arjun3_b" target="_blank">
 		<img alt="x" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" />
 	</a> 
 	<a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank">
