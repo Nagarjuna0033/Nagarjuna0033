@@ -58,9 +58,9 @@ A technology-enthusiastic
 
 ## ❤️ Let's get connected:
 <p align="left">
-	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
-		<img alt="Github" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
-	</a>
+<!-- 	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
+		<img alt="Portfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
+	</a> -->
 	<a href="https://twitter.com/arjun3_b" target="_blank">
 		<img alt="x" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" />
 	</a> 
@@ -68,7 +68,7 @@ A technology-enthusiastic
 		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
 	</a>
 	<a href="https://www.leetcode.com/u/nagarjuna4/" target="_blank">
-		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
+		<img alt="Leetcode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
 	</a>
 </p>
 <br/>
