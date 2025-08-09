@@ -28,6 +28,8 @@ A technology-enthusiastic
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1nNJ2w-UOqoS_3cpMwO0c64pNO-hUaJN-/view?usp=sharing)
 <br/>
 
+<!--
+
 ## 🛠️ Technologies and Tools I use:
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></code>
@@ -55,7 +57,7 @@ A technology-enthusiastic
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 </div>
 <br/>
-
+-->
 ## ❤️ Let's get connected:
 <p align="left">
 <!-- 	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
