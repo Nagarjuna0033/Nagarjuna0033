@@ -64,19 +64,27 @@ A technology-enthusiastic
 		<img alt="Portfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
 	</a> -->
 	<a href="https://twitter.com/arjun3_b" target="_blank">
-		<img alt="x" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" />
+		<img alt="x" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="30" width="30"/>
 	</a> 
 	<a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank">
-		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30"/>
 	</a>
 	<a href="https://www.leetcode.com/u/nagarjuna4/" target="_blank">
-		<img alt="Leetcode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
+		<img alt="Leetcode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="30"/>
 	</a>
 </p>
 <br/>
 
-## 📊 My GitHub Data:
-<div align="center">
+## 📊 Github Stats
+<a href='https://github.com/Nagarjuna0033/github-stats'>
+
+![Stats Overvie](https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</a>
+
+<br>
+<!-- <div align="center">
 	<div>
 		<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="nagarjuna0033" />
 	</div>
@@ -86,4 +94,4 @@ A technology-enthusiastic
 	<div>
 		<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagarjuna0033&theme=black-ice&stroke=ffffff&background=000000&ring=ffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 	</div>
-</div>
+</div> -->
