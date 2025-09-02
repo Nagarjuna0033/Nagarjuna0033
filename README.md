@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Nagarjuna](https://github.com/Nagarjuna0033) <img align="right" src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" />
 
-I’m a technology enthusiast passionate about building modern and scalable applications. I mainly work with Kotlin Multiplatform (KMP) and Jetpack Compose, while also exploring backend systems and emerging tools. I enjoy learning, contributing to open source, and sharing knowledge with the developer community.
+I’m a technology enthusiast passionate about building modern and scalable applications. I mainly work with Kotlin Multiplatform (KMP) and Jetpack Compose, while also exploring backend systems and emerging tools. I enjoy learning, contributing to open source, and sharing knowledge with the developer community. Know about my experiences [Here](https://drive.google.com/file/d/1nNJ2w-UOqoS_3cpMwO0c64pNO-hUaJN-/view?usp=sharing)
 
 Fun fact: I don’t like to code… I’m just curious about how it all works.
 
