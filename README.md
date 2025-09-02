@@ -1,97 +1,61 @@
-<h1 align="center">Hello👋, I'm <a href="https://github.com/Nagarjuna0033/" target="_blank">
-Nagarjuna</a>
-</h1>
+# 👋 Hello, I'm [Nagarjuna](https://github.com/Nagarjuna0033) <img align="right" src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" />
 
-<!--
-**Nagarjuna0033/Nagarjuna0033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-## 👨🏻‍💻 About Me:
+I’m a technology enthusiast passionate about building modern and scalable applications. I mainly work with Kotlin Multiplatform (KMP) and Jetpack Compose, while also exploring backend systems and emerging tools. I enjoy learning, contributing to open source, and sharing knowledge with the developer community.
 
-A technology-enthusiastic
+Fun fact: I don’t like to code… I’m just curious about how it all works.
 
-<img src="./line.gif" width="100%" alt="snake"/>
-<br/>
+## 🛠️ Technologies and Tools
 
-<img src="./thoughtworks-gif_dribbble.gif" height="300px" align="right"/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" />
-
-- 🔭 I’m currently working on `Mobile Application Development`.
-
-- 🌱 I’m currently learning `Mobile Application Development`.
-
-- 👨‍💻 Life Hack: Learn 🔥 and share 🎉
-
-- ⚡ Fun fact: I don't like to code
-
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1nNJ2w-UOqoS_3cpMwO0c64pNO-hUaJN-/view?usp=sharing)
-<br/>
-
-<!--
-
-## 🛠️ Technologies and Tools I use:
-<div>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png" alt="Material Design" title="Material Design"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
-<br/>
--->
-## ❤️ Let's get connected:
-<p align="left">
-<!-- 	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
-		<img alt="Portfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
-	</a> -->
-	<a href="https://twitter.com/arjun3_b" target="_blank">
-		<img alt="x" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="30" width="30"/>
-	</a> 
-	<a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank">
-		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30"/>
-	</a>
-	<a href="https://www.leetcode.com/u/nagarjuna4/" target="_blank">
-		<img alt="Leetcode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="30"/>
-	</a>
-</p>
-<br/>
 
-## 📊 Github Stats
+
+## ❤️ Let's Connect
+
+
+[![x](https://readmecodegen.vercel.app/api/social-icon?name=x&size=32&animationDuration=5&color=%23ffffff&link=https%3A%2F%2Fx.com%2Farjun3_b)](https://x.com/arjun3_b)
+[![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32&animationDuration=5&color=%233b82f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnagarjuna3%2F)](https://www.linkedin.com/in/nagarjuna3/)
+[![leetcode](https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=32&animationDuration=5&link=https%3A%2F%2Fleetcode.com%2Fu%2Fnagarjuna4)](https://leetcode.com/u/nagarjuna4)
+
+
+## 📊 GitHub Stats
 <a href='https://github.com/Nagarjuna0033/github-stats'>
-
-![Stats Overvie](https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+  <img src="https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-
-<br>
-<!-- <div align="center">
-	<div>
-		<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="nagarjuna0033" />
-	</div>
-	<div>
-		<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nagarjuna0033&show_icons=true&title_color=ffffff&amp&icon_color=ffff&amp&text_color=ffffff&amp&bg_color=000000&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/>
-	</div>
-	<div>
-		<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagarjuna0033&theme=black-ice&stroke=ffffff&background=000000&ring=ffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
-	</div>
-</div> -->
