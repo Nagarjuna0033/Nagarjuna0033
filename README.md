@@ -51,7 +51,7 @@ Fun fact: I don’t like to code… I’m just curious about how it all works.
 
 [![x](https://readmecodegen.vercel.app/api/social-icon?name=x&size=32&animationDuration=5&color=%23ffffff&link=https%3A%2F%2Fx.com%2Farjun3_b)](https://x.com/arjun3_b)
 [![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32&animationDuration=5&color=%233b82f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnagarjuna3%2F)](https://www.linkedin.com/in/nagarjuna3/)
-[![leetcode](https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=32&animationDuration=5&link=https%3A%2F%2Fleetcode.com%2Fu%2Fnagarjuna4)](https://leetcode.com/u/nagarjuna4)
+<!--[![leetcode](https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=32&animationDuration=5&link=https%3A%2F%2Fleetcode.com%2Fu%2Fnagarjuna4)](https://leetcode.com/u/nagarjuna4) -->
 
 
 ## 📊 GitHub Stats
