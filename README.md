@@ -51,14 +51,14 @@ Fun fact: I don’t like to code… I’m just curious about how it all works.
 
 [![x](https://readmecodegen.vercel.app/api/social-icon?name=x&size=32&animationDuration=5&color=%23ffffff&link=https%3A%2F%2Fx.com%2Farjun3_b)](https://x.com/arjun3_b)
 [![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32&animationDuration=5&color=%233b82f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnagarjuna3%2F)](https://www.linkedin.com/in/nagarjuna3/)
-<!--[![leetcode](https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=32&animationDuration=5&link=https%3A%2F%2Fleetcode.com%2Fu%2Fnagarjuna4)](https://leetcode.com/u/nagarjuna4) -->
+[![leetcode](https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=32&animationDuration=5&link=https%3A%2F%2Fleetcode.com%2Fu%2Fnagarjuna4)](https://leetcode.com/u/nagarjuna4)
 
 
 ## 📊 GitHub Stats
 <a href='https://github.com/Nagarjuna0033/github-stats'>
   <img src="https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-<!--   <img width="355" height="355" src="https://github-readme-stats.vercel.app/api?username=Nagarjuna0033&show_icons=true&title_color=429FFF&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&border_color=42464B&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/> -->
+  <img width="355" height="355" src="https://github-readme-stats.vercel.app/api?username=Nagarjuna0033&show_icons=true&title_color=429FFF&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&border_color=42464B&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/>
 </a>
 
 
