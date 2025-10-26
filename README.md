@@ -58,10 +58,16 @@ Fun fact: I don’t like to code… I’m just curious about how it all works.
 <a href='https://github.com/Nagarjuna0033/github-stats'>
   <img src="https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  
-  <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=nagarjuna0033&theme=github_dark&show_icons=true) -->
-  ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&theme=github_dark&show_icons=true)
+
   <img width="355" height="355" src="https://github-readme-stats.vercel.app/api?username=Nagarjuna0033&show_icons=true&title_color=429FFF&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&border_color=42464B&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjuna0033&layout=compact&theme=github_dark&langs_count=10)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagarjuna0033&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  
+
+  
+
 </a>
 
 
