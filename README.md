@@ -1,8 +1,13 @@
 # 👋 Hello, I'm [Nagarjuna](https://github.com/Nagarjuna0033) <img align="right" src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" />
 
-I’m a technology enthusiast passionate about building modern and scalable applications. I mainly work with Kotlin Multiplatform (KMP) and Jetpack Compose, while also exploring backend systems and emerging tools. I enjoy learning, contributing to open source, and sharing knowledge with the developer community. Know about my experiences [Here](https://drive.google.com/file/d/1nNJ2w-UOqoS_3cpMwO0c64pNO-hUaJN-/view?usp=sharing)
+I'm a Passionate Full Stack & Android Developer focused on building user-friendly mobile apps and web experiences. I believe in clean design, scalable architecture, and impactful solutions.
 
-Fun fact: I don’t like to code… I’m just curious about how it all works.
+Worked as an Intern at Mifos open source organization (june 2025 - sept 2025), where I Contributed to the migration of an Mifos Mobile application to Kotlin Multiplatform (KMP) and implementing new core fintech functionalities and revamping the whole application with new designs. Alongside, I serve as an Android Intern at MobileByteSensei, working on real-time Play Store applications, enhancing core functionalities using KMP and Compose Multiplatform (CMP).
+
+With practical experience from real-world projects and open-source contributions, I bring modern development practices like CI/CD with GitHub Actions, Firebase App Distribution, Firebase Analytics, and Crashlytics, along with strong version control and cross-platform expertise.
+Know about my experiences [Here](https://drive.google.com/file/d/1nNJ2w-UOqoS_3cpMwO0c64pNO-hUaJN-/view?usp=sharing)
+
+Fun fact: I avoid coding, but debugging stalks me anyway.
 
 ## 🛠️ Technologies and Tools
 
