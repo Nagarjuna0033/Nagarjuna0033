@@ -10,9 +10,16 @@ Know about my experiences [Here](https://drive.google.com/file/d/1nNJ2w-UOqoS_3c
 Fun fact: I avoid coding, but debugging stalks me anyway. -->
 
 <h3 align="center">Software Developer | Open Source Contributor</h3>
+
 <p align="center">
-  Building <b>scalable Android applications</b> using <b>CMP</b>, <b>Jetpack Compose</b>
+  Building <b>scalable Android applications</b> using
+  <b>Compose Multiplatform</b> & <b>Jetpack Compose</b>.
 </p>
+
+<p align="center">
+  <a href="https://nagarjuna0033.github.io/portfolio/"><code>$ open portfolio</code></a>
+</p>
+
 
 ## 🛠️ Technologies and Tools
 
